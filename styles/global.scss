@@ -102,7 +102,7 @@ body {
 			select {
 				font-size: 1rem;
 				padding: 3px .5rem;
-				-webkit-appearance: none;
+				// -webkit-appearance: none;
 			}
 	
 			/* Chrome, Safari, Edge, Opera */
@@ -115,9 +115,9 @@ body {
 	
 	
 			/* Firefox */
-			select {
-				-moz-appearance: textfield;
-			}
+			// select {
+				// -moz-appearance: textfield;
+			// }
 	
 			.time-for-falling {
 				margin-top: 5rem;

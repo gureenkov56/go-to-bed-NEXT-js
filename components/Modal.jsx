@@ -1,8 +1,7 @@
 import React, { useState } from 'react'
 import cn from 'classnames';
 
-import s from '../styles/component.module.scss'
-
+// TODO: Сделать появление модалки
 
 function Modal() {
 
